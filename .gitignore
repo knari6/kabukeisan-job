@@ -38,3 +38,4 @@ ent/
 *.zip
 *.xbrl
 
+node_modules/
